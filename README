@@ -1,0 +1,12 @@
+# Todo List App
+
+### Front-end with Todo List using React
+
+This application is made with the intention of studying the use of Django to create a Rest API
+
+#### Usage
+
+```
+yarn
+yarn dev
+```
